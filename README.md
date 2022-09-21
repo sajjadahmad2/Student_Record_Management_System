@@ -19,4 +19,5 @@ Admin username:Alihamza
 
 
 
-Demo Video Link
+Demo Video Link:
+https://github.com/sajjadahmad2/Student_Record_Management_System/issues/1
