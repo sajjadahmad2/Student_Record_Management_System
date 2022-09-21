@@ -105,7 +105,7 @@ if (isset($_POST['submit'])){
                       </div>
                       <div class="form-group">
                         <label for="exampleInputName1">Contact Number</label>
-                        <input type="text" name="contact" value="<?php echo $row['contact'] ?>" class="form-control" required='true' maxlength="10" pattern="[0-9]+">
+                        <input type="text" name="contact" value="<?php echo $row['contact'] ?>" class="form-control" required='true' maxlength="11">
                       </div>
                       <div class="form-group">
                         <label for="exampleInputName1">Email</label>

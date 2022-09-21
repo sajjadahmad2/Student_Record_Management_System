@@ -81,7 +81,7 @@ if (isset($_POST['submit'])){
                       </div>
                       <div class="form-group">
                         <label for="exampleInputCity1">Contact Number</label>
-                         <input type="text" name="contact" value="" class="form-control" required='true'>
+                         <input type="text" name="contact" value="" class="form-control" required='true' maxlength="11">
                       </div>
                       <div class="form-group">
                         <label for="exampleInputCity1">Choose Image</label>
